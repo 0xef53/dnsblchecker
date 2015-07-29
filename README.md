@@ -1,9 +1,14 @@
 DNSBL Checker
 -------------
+[![Build Status](https://drone.io/github.com/0xef53/dnsblchecker/status.png)](https://drone.io/github.com/0xef53/dnsblchecker/latest)
 
 DNSBL Checker is a simple tool to check IPs in DNS-based blackhole lists.
 
-### Installation
+### Getting binary
+
+Latest version is available [here](https://drone.io/github.com/0xef53/dnsblchecker/files/dnsblchecker)
+
+### Installing from source
 
     go build dnsblchecker.go
 
